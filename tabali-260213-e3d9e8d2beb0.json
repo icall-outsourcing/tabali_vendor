@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tabali-260213",
+  "private_key_id": "e3d9e8d2beb0d63cc22c822eaea5574e0a9bdf16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzoMh5hhFN2QOq\n+Opkfke5nomP2Q5Aat3ntBC2eI7FmWINP18SIVSSSbJX+UWG2JTSofPrRgHWGlaP\nSLpO1E1nFW9J3I/X533sX83K7sEFr6nFXQn9FS0M+7L84EQ3vgEVBBVgsOuPlx/6\nlOmsbuNIbeSY5RgpQ1gEZo5SkL5iuC6lmMh5V5EFzBtQdNjaYTox94wZqA1giCI/\niENfblrkKEex3EFIuAcRv/z6UpVcBz1azwVSzgjgXDmSQ8NN8OC5bCDoimOXL0zx\nLpS7dUUy68zSgJq+4EUn+0xPunvKVz9cBRQNLONk7tRlB9RRrtV1LMHbfi9ssDIJ\nNdeRE1ovAgMBAAECggEADB/qiEa5Z593X5SvqvAvLTil9moN9ovVcKy3LWnpJoNa\nRU9QE9bgxi29S7I4CYhtpeNn+ysy4oh36/IFHrRhM80UQaW7+98p9nOSXi6heXMd\nqtnDMSxlvxOaRaFprrg04H3xvMtptbvbXRGszYZ/8ZqhVy9XjdQi3naBstGxrX4T\nivQnH64smK876qv9nufeIwFh9iIwUKlWqr/x19A9vP3ZEZnOVKC2Ui+FSylBZSdf\n6JrOsaoeHHiYpvO43SZv82gzBAr+vppOxS2fhHUY7ld4cOPXq+x6DKNA4jHFLoVJ\nWBk9GkFR6Y8joozNcPen+M68XPpcpc3UjUED8+DBeQKBgQDbdF+YeiHdQNZYeAGS\nmibpc6SXaQmg1SsEUSBc+mYLabZWevZCoo/Ok0GcBulwTnjhmd1uAUPVOwQB4EWh\n5nBDpPyrBDZ+vHDlBKt32nq0J4C6jcKSmKli7NP3C+lZ6u1Wxo6wv0FSeVsucDby\ny6pJoQO95w5W/rP1rfzZoiRmXQKBgQDRio32nkdWM2zmrD4X/8BDk1qinnBVRRIx\nstdJJ7RAIQ8deo5r2E8hxrS64XpH4voIWBlF4vq7/k79Xl4NSsMLCvl6AYhMY4v1\nt5iBAm5S4rFWulGgiTP48sJlXZbfnQdEMJ5Es2uCF9NQXU4JQVu9yGQNhSERE0ZF\nKsV9WeUh+wKBgF0HmjbDH3PxtmvOg6woGPLCCTX+WwyJETFFStjfdT7FU3yZp6db\nzmad2iRQcckgGvJYDZxCgQT1fZ9l+V7GlzS1zj6ZDJjxPVJ4hk/KmFWioVl0GtWW\nTcgX6UtDC2sIwhAVIAwhJ4nU1Ch9fW2zlL6duT5ZoqSSWKt/VD7WE2QpAoGAX7ba\ngfxquYVkCTpEYtIAEN4OWJnm1gxm8yyuCkyImYKAVQbWZ4y3GMabZ4H3ST701zrm\n0HWN8rGHg1THwWqVDUZGDuUETWBrXiIvFz71Bgdm2ibhgmMpyl2ZTpQhhqND3nIW\n2WrbgOFBNURpkPC550bR7RsSr6oOPyn6a/fUImECgYEAlrymYTPQjC8ia0oVZz4c\nJuCtLJgK9lwWJMZPCUtNJbUK+xZ1EzwYsI7tClLkKBcBPrvYyNJitjtpxc3vTpq8\n6vYL1amQiB4YVHGIOPWZE/rMzte+XE1oWwtqvsBT9cStAc/UBXj7H4meJbIlTxH+\nLhdIKsg7odqFvgtGOsnuLjo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "printer@tabali-260213.iam.gserviceaccount.com",
+  "client_id": "104291334251663755273",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/printer%40tabali-260213.iam.gserviceaccount.com"
+}
